@@ -9,7 +9,6 @@ st.set_page_config(page_title="Data Analytics Dashboard", layout="wide")
 with st.sidebar:
     st.title("👨‍💻 Developer Profile")
     st.info("Built by Priya Jha | Python Developer")
-    st.info("Built by [Your Name] | Python Developer")
     st.markdown("[🔗 Visit my LinkedIn](https://www.linkedin.com/in/jhapriya821)")
     st.divider()
     st.subheader("🚀 Tech Stack")
