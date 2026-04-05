@@ -8,7 +8,7 @@ st.set_page_config(page_title="Data Analytics Dashboard", layout="wide")
 # --- SIDEBAR: YOUR PROFESSIONAL BIO ---
 with st.sidebar:
     st.title("👨‍💻 Developer Profile")
-    # TIP: Replace [Your Name] with your actual name for LinkedIn!
+    st.info("Built by Priya Jha | Python Developer")
     st.info("Built by [Your Name] | Python Developer")
     st.markdown("[🔗 Visit my LinkedIn](https://www.linkedin.com/in/jhapriya821)")
     st.divider()
